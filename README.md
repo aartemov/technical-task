@@ -10,7 +10,7 @@ every animal has such ability. There are several issues and we hope you'd solve 
 ## Instructions
 
 * Create a branch named by your name.surname
-* Look at our code, bellieve me, it's kinda shitty
+* Look at our code, believe me, it's kinda shitty
 * Make this code as good as you can
   * Make as many commits as you want
   * Show us you power
